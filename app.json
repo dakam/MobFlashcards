@@ -1,0 +1,12 @@
+{
+  "name": "mobflashcards",
+  "displayName": "mobflashcards",
+  "expo": {
+    "name": "mobflashcards",
+    "slug": "mobflashcards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
