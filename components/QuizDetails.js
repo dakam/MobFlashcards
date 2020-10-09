@@ -2,10 +2,7 @@ import React, { Component } from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
 import MobileButton from "./MobileButton";
 import { white, red, ngreen, green } from "../utils/colors";
-import {
-  setLocalNotification,
-  clearLocalNotification,
-} from "../utils/notifications";
+import { setLocalNotification, clearLocalNotification } from "../utils/helpers";
 
 export default class QuizDetails extends Component {
   componentDidMount() {

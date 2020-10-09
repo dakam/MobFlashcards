@@ -4,7 +4,7 @@ import { createStore } from "redux";
 import { Provider } from "react-redux";
 import reducers from "./reducers/index";
 import middlewares from "./middleware/index";
-import { setLocalNotification } from "./utils/notifications";
+import { setLocalNotification } from "./utils/helpers";
 import StackScreen from "./components/StackScreen";
 import { mobtitles } from "./utils/helpers";
 
