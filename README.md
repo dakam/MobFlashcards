@@ -10,6 +10,11 @@ MobFlashcard App is a Rect Native mobile application developed in React Native t
 - Receive Notification Reminders
 - Display Scores after taking a Quiz
 
+## Platforms Supported
+
+- Android
+- IOS
+
 ### Installing
 
 To have the development environment of MobFlashcard mobile Application up and running, follow the below steps
